@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_callbacks.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_cursor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_display.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_ext.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_font_data.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_font.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_gamemode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_geometry.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_glutfont_definitions.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_input_devices.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_joystick.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_menu.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_misc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_overlay.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_spaceball.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_state.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_stroke_mono_roman.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_stroke_roman.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_structure.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_teapot.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_videoresize.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_teapot_data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_ext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\C++Project\Box2D\Box2D\freeglut\freeglut_std.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\C++Project\Box2D\Box2D\freeglut\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0CF30329-2482-31D3-852E-878E577F149B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6755B47A-231B-3ED2-B3BC-4BD7584E8AFC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
